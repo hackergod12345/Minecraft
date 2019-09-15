@@ -1,9 +1,9 @@
-//pie
+
 /* color
 #59564f - dark
 #b3d5f2- bright green
-#719ed9 - dark green 
-#F2F2F2 - gray 
+#719ed9 - dark green
+#F2F2F2 - gray
 */
 
 /* ------------------------------body-------------------------------*/
@@ -29,7 +29,7 @@ body
 /* ------------------------------nav-------------------------------*/
 
 
-    
+
 #nav
 {
     overflow: hidden;
@@ -69,7 +69,7 @@ body
     width: 100%;
     margin: 0;
     padding: 0 0 40px 0;
-    background-color: #59564f; 
+    background-color: #59564f;
 }
 
 /* ---------------------------Content---------------------------*/
@@ -90,9 +90,9 @@ p
     clear: left;
     margin: 50px 0 50px 0;
     display: block;
-    padding: 0px 20px; 
+    padding: 0px 20px;
 }
-    
+
 .part
 {
     float: left;
@@ -104,7 +104,7 @@ p
 {
     padding: 0 50px 30px 50px;
 }
-    
+
 .textWimg
 {
     min-height: 370px;
@@ -121,7 +121,7 @@ p
 {
     overflow: auto;
 }
-    
+
 .galleryImg
 {
     max-width: 960px;
@@ -166,7 +166,7 @@ p
     text-align: center;
     font-size: 1em;
 }
-    
+
 #footer a
 {
     color: white;
